@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://go.microsoft.com/fwlink/?LinkID=521962')
 WebUI.delay(15)
 
 //String fileName = "your_filename.xlsx"
-String fileName = "Financial Sample.xlsx"
+String fileName = 'Financial Sample.xlsx'
 
 CustomKeywords.'com.katalon.testcloud.FileExecutor.getExcelFileContent'(fileName);
 
