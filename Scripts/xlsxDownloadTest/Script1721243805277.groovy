@@ -27,6 +27,6 @@ WebUI.delay(15)
 //String fileName = "your_filename.xlsx"
 String fileName = 'Financial Sample.xlsx'
 
-CustomKeywords.'com.katalon.testcloud.FileExecutor.getExcelFileContent'(fileName);
+CustomKeywords.'com.xlsx.xlsxHandler.getExcelFileContent'(fileName);
 
 WebUI.closeBrowser()

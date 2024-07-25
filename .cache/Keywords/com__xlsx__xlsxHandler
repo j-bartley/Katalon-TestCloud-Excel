@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "310B6038D581166617A596383E70F765",
+  "keywordClasses": [
+    {
+      "name": "com.xlsx.xlsxHandler",
+      "keywordMethods": [
+        {
+          "name": "getExcelFileContent",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
